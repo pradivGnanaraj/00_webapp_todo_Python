@@ -27,4 +27,3 @@ st.text_input(label="Enter a todo",
               on_change=add_todo,
               key='new_todo'
               )
-# installed streamlit

@@ -23,5 +23,3 @@ def write_todos(todos_arg, filepath=FILEPATH):
 if __name__ == "__cli__":
     print("Hello")
     print(get_todos())
-
-# delete this line after git
